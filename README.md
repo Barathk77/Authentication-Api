@@ -9,7 +9,7 @@ Authentication-API
 #change the .env file according to your config
 #then you are ready to go, to start the app run
 
-node server.js
+4.node server.js
 
 #Commands to run the API
 -------------------------------------------------------------------------------
