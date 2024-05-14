@@ -1,6 +1,16 @@
 # Authentication-Api
 Authentication-API
 
+#open the terminal in Authentication-Api directory
+1. npm init -y
+2. npm install express mongoose bcryptjs jsonwebtoken passport passport-jwt passport-google-oauth20 passport-facebook passport-twitter passport-github
+3. npm install dotenv body-parser
+
+#change the .env file according to your config
+#then you are ready to go
+#to start the app run
+node server.js
+
 #Commands to run the API
 -------------------------------------------------------------------------------
 #For register the User:
